@@ -2,13 +2,13 @@
 
 To run this incredible analysis please read the following steps:
 
-1. Create a config.js file with a key from (Mapbox)[https://www.mapbox.com/]
+1. Create a config.js in folder "static >> js" folder file with a key from (Mapbox)[https://www.mapbox.com/]
 
 ```
 const API_KEY = "YOUR KEY HERE
 ```
 
-2. Create a config.py with you password for MySQL 
+2. Create a config.py in main folder with you password for MySQL 
 
 ```
 password = "YOUR PASSWORD HERE"
