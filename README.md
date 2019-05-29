@@ -2,7 +2,7 @@
 
 To run this incredible analysis please read the following steps:
 
-1. Create a config.js in folder "static >> js" folder file with a key from (Mapbox)[https://www.mapbox.com/]
+1. Create a config.js in folder "static >> js" folder file with a key from (https://www.mapbox.com/)[Mapbox]
 
 ```
 const API_KEY = "YOUR KEY HERE
